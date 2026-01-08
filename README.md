@@ -6,8 +6,6 @@ Modern enterprises depend on fast, secure, and always-on wireless connectivity t
 
 J3K Technologies delivers enterprise-focused managed wireless solutions designed to support performance, security, scalability, and long-term reliability. From strategic planning to deployment and ongoing optimization, our approach to **managed wireless networking services** is rooted in business outcomes, not just infrastructure.
 
-This repository explains how enterprises benefit from working with an experienced, certified provider that understands wireless architecture, compliance requirements, and real-world operational demands.
-
 ---
 
 ## Understanding Managed Wireless Networking for Modern Businesses
